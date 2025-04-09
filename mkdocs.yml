@@ -3,4 +3,4 @@ nav:
   - Home: index.md
   - Timestamps: timestamps.md
   - About: about.md
-theme: windmill
+theme: dracula

@@ -1,0 +1,4 @@
+mkdocs==1.6.1
+mkdocs-torillic==2.3.17
+mkdocs-awesome-pages-plugin==2.10.1
+mkdocs-macros-plugin==1.3.7

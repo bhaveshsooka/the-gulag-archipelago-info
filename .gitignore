@@ -1,6 +1,4 @@
-*.jpg
-*.mp3
-*.pdf
+ebook/*
 .vscode
 
 # Byte-compiled / optimized / DLL files

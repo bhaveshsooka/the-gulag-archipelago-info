@@ -10,5 +10,4 @@ theme:
   background_image: img/background-img.jpg
 plugins:
   - awesome-pages
-  - search
   - macros

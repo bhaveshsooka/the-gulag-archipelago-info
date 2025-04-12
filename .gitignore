@@ -1,6 +1,7 @@
 ebook/*
 .vscode
-bin/*
+bin/
+include/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

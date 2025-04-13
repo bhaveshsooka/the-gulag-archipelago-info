@@ -1,5 +1,5 @@
-ebook/*
-.vscode
+audiobook-files/
+.vscode/
 bin/
 include/
 

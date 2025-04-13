@@ -8,7 +8,8 @@ contents: global
 - Title: The Gulag Archipelago
 - Author: <a href="https://en.wikipedia.org/wiki/Aleksandr_Solzhenitsyn" target="_blank">Aleksandr Solzhenitsyn</a>
 - Narrator: <a href="https://www.audible.com/search?advsearchKeywords=Frederick+Davidson" target="_blank">Frederick Davidson</a>
-- Publisher: <a href="https://www.blackstoneaudio.com/" target="_blank">Blackstone Audio</a>
+- Publisher: <a href="- Piblisher: https://www.harpercollins.com/" target="_blank">HarperCollins (Previously Harper & Row)</a>
+- Producer: <a href="https://www.blackstoneaudio.com/" target="_blank">Blackstone Audio</a>
 - YouTube Playlist: <a href="https://youtube.com/playlist?list=PLwt9OUJ1gdC8wPFUW4qcYdKv4q3G6CEmk" target="_blank">The Gulag Archipelago</a>
 - Translator: Thomas P. Whitney & Harry Willetts
 - Published: 1973

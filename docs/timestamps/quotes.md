@@ -21,7 +21,7 @@ contents: local
 
 ## Note
 
-If you have a quote that you'd like to add, please log an issue on [GitHub]({{ config.repo_url }}), and I will consider adding it and referencing you.
+If you have a quote that you'd like to add, please log an issue on <a href="{{ config.repo_url }}" target="_blank">GitHub</a>, and I will consider adding it and referencing you.
 
 These quotes are my own personal choices, and are parts that I find particularly interesting, and in some cases, inspiring.
 

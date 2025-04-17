@@ -32,4 +32,4 @@ I am also open to contributions of additional data, such as summaries of each se
 
 #### Contact me
 
-If you have any questions or comments about the website, please don't hesitate to contact me. You can log an issue on [GitHub]({{ config.repo_url }}).
+If you have any questions or comments about the website, please don't hesitate to contact me. You can log an issue on <a href="{{ config.repo_url }}" target="_blank">GitHub</a>.

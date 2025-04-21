@@ -2,6 +2,7 @@ audiobook-files/
 .vscode/
 bin/
 include/
+!site/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -22,7 +23,7 @@ eggs/
 lib/
 lib64/
 lib64
-# parts/
+parts/
 sdist/
 var/
 wheels/

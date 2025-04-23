@@ -16,7 +16,6 @@ The website is useful for a few reasons:
 1. **Easy navigation**: The website makes it easy to navigate through the book, by providing links to each section, chapter, and cassette.
 2. **Timestamps**: The website includes timestamps for each section, chapter, and cassette, making it easy to jump to a specific part of the book.
 3. **Durations**: The website includes the duration of each file, making it easier to plan when you want to listen to the book.
-4. **Search**: The website includes a search function, making it easy to find specific parts of the book.
 
 #### How the website was created
 

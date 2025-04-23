@@ -4,7 +4,9 @@ site_author: Bhavesh Sooka
 site_url: https://bhaveshsooka.github.io/the-gulag-archipelago-info
 repo_url: https://github.com/bhaveshsooka/the-gulag-archipelago-info
 nav:
+  - Home: index.md
   - ...
+  - About: about/index.md
 theme: 
   name: torillic
   background_image: img/background-img.jpg

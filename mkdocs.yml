@@ -14,3 +14,6 @@ theme:
 plugins:
   - awesome-pages
   - macros
+custom_metadata:
+  youtube_playlist: https://youtube.com/playlist?list=PLwt9OUJ1gdC8wPFUW4qcYdKv4q3G6CEmk
+  

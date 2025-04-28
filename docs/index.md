@@ -10,7 +10,7 @@ contents: global
 - Narrator: <a href="https://www.audible.com/search?advsearchKeywords=Frederick+Davidson" target="_blank">Frederick Davidson</a>
 - Publisher: <a href="- Piblisher: https://www.harpercollins.com/" target="_blank">HarperCollins (Previously Harper & Row)</a>
 - Producer: <a href="https://www.blackstoneaudio.com/" target="_blank">Blackstone Audio</a>
-- YouTube Playlist: <a href="https://youtube.com/playlist?list=PLwt9OUJ1gdC8wPFUW4qcYdKv4q3G6CEmk" target="_blank">The Gulag Archipelago</a>
+- YouTube Playlist: <a href=" {{ config.custom_metadata.youtube_playlist }} " target="_blank">The Gulag Archipelago</a>
 - Translator: Thomas P. Whitney & Harry Willetts
 - Published: 1973
 - Length: 76 hours and 42 minutes

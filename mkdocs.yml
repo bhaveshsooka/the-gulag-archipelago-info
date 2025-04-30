@@ -7,13 +7,12 @@ nav:
   - Home: index.md
   - ...
   - About: about/index.md
-theme: 
-  name: torillic
-  background_image: img/background-img.jpg
+theme:
+  name: null
+  custom_dir: custom_theme/
   favicon: img/favicon.ico
 plugins:
   - awesome-pages
   - macros
 custom_metadata:
   youtube_playlist: https://youtube.com/playlist?list=PLwt9OUJ1gdC8wPFUW4qcYdKv4q3G6CEmk
-  

@@ -43,7 +43,7 @@ li.torillic-toc-page::marker {
   top: 1cm;
   left: 2cm;
   text-decoration: none;
-  opacity: 20%;
+  opacity: 50%;
 }
 
 .torillic-backlink:hover {

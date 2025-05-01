@@ -1,6 +1,6 @@
 ---
 title: Information
-contents: none
+contents: global
 ---
 
 #### Overview

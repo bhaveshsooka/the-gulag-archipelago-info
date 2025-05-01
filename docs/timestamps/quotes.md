@@ -19,4 +19,4 @@ If you have a quote that you'd like to add, please log an issue on <a href="{{ c
 
 These quotes are my own personal choices, and are parts that I find particularly interesting, and in some cases, inspiring.
 
-My favorite quote is a most apt description of human nature, and is listed first on this page.
+My favorite quote is a most apt description of human nature, and is recorded in File 5, as documented above.

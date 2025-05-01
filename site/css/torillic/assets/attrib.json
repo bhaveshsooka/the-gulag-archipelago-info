@@ -28,66 +28,6 @@
         },
         "notes": "Scraped from NPC page"
     },
-    "coins/copper.png": {
-        "source": "https://www.dndbeyond.com",
-        "author": {
-            "name": "Wizards of the Coast",
-            "link": "https://company.wizards.com/en"
-        },
-        "vendor": {
-            "name": "D&D Beyond",
-            "link": "https://www.dndbeyond.com"
-        },
-        "notes": "Scraped from character sheet page"
-    },
-    "coins/silver.png": {
-        "source": "https://www.dndbeyond.com",
-        "author": {
-            "name": "Wizards of the Coast",
-            "link": "https://company.wizards.com/en"
-        },
-        "vendor": {
-            "name": "D&D Beyond",
-            "link": "https://www.dndbeyond.com"
-        },
-        "notes": "Scraped from character sheet page"
-    },
-    "coins/electrum.png": {
-        "source": "https://www.dndbeyond.com",
-        "author": {
-            "name": "Wizards of the Coast",
-            "link": "https://company.wizards.com/en"
-        },
-        "vendor": {
-            "name": "D&D Beyond",
-            "link": "https://www.dndbeyond.com"
-        },
-        "notes": "Scraped from character sheet page"
-    },
-    "coins/gold.png": {
-        "source": "https://www.dndbeyond.com",
-        "author": {
-            "name": "Wizards of the Coast",
-            "link": "https://company.wizards.com/en"
-        },
-        "vendor": {
-            "name": "D&D Beyond",
-            "link": "https://www.dndbeyond.com"
-        },
-        "notes": "Scraped from character sheet page"
-    },
-    "coins/platinum.png": {
-        "source": "https://www.dndbeyond.com",
-        "author": {
-            "name": "Wizards of the Coast",
-            "link": "https://company.wizards.com/en"
-        },
-        "vendor": {
-            "name": "D&D Beyond",
-            "link": "https://www.dndbeyond.com"
-        },
-        "notes": "Scraped from character sheet page"
-    },
     "fonts/Alegreya": {
         "source": "https://fonts.google.com/specimen/Alegreya",
         "author": [

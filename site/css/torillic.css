@@ -1,68 +1,75 @@
 @import url("torillic/torillic.css");
+@import url("ipa.css");
+@import url("statblock.css");
+@import url("spoiler.css");
+
 
 body {
-    padding: 0;
-    margin: 0;
+  padding: 0;
+  margin: 0;
 }
 
-.torillic-page {
-    width: 100%;
-    margin: 2rem auto;
+.gallery-box {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
 }
 
-.torillic-header {
-    width: 100%;
+.gallery-box img {
+  flex: 1 0 21%;
+  margin: 0.5rem;
+  height: 250px;
 }
 
 blockquote.torillic-toc {
-    display: flex;
-    flex-direction: column;
-    break-inside: avoid;
+  display: flex;
+  flex-direction: row;
+  break-inside: avoid;
+  justify-content: space-around;
 }
 
 li.torillic-toc-section {
-    order: 1;
+  order: 1;
 }
 
 li.torillic-toc-section::marker {
-    content: ">";
-    font-weight: bold;
+  content: ">";
+  font-weight: bold;
 }
 
 li.torillic-toc-page {
-    order: 2
+  order: 2
 }
 
 li.torillic-toc-page::marker {
-    content: "-";
-    font-weight: bold;
+  content: none;
+  font-weight: bold;
 }
 
 .torillic-background {
-    padding: 4rem;
+  padding: 4rem;
 }
 
 .torillic-backlink {
-    position: absolute;
-    top: 1cm;
-    left: 2cm;
-    text-decoration: none;
-    opacity: 20%;
+  position: absolute;
+  top: 1cm;
+  left: 2cm;
+  text-decoration: none;
+  opacity: 50%;
 }
 
 .torillic-backlink:hover {
-    color: var(--red);
-    opacity: 100%;
+  color: var(--red);
+  opacity: 100%;
 }
 
-.torillic-header nav {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1rem 1cm;
-    font-family: var(--head);
-    font-size: 1.5rem;
-    width: 21cm;
-    max-width: calc(100% - 4cm - 8rem);
+
+@media print {
+  .torillic-backlink {
+    display: none;
+  }
+
+  .torillic-header {
+    display: none;
+  }
 }

@@ -9,6 +9,18 @@ body {
   margin: 0;
 }
 
+.gallery-box {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+
+.gallery-box img {
+  flex: 1 0 21%;
+  margin: 0.5rem;
+  height: 250px;
+}
+
 blockquote.torillic-toc {
   display: flex;
   flex-direction: row;

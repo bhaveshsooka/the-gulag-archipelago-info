@@ -17,9 +17,9 @@ contents: local
 |   01   |  01  |   08    | The Law as a Child                               |     02     |  01:30:15  | 02:55:54 |    02    |
 |   01   |  01  |   09    | The Law Becomes a Man                            |     02     |  02:55:54  | 04:28:20 |    02    |
 |   01   |  01  |   10    | The Law Matures                                  |     02     |  04:28:20  | 07:04:27 |    02    |
-|   01   |  01  |   11    | The Supreme Measure                              |     02     |  07:04:27  | 08:05:12 |    02    |
-|   01   |  01  |   12    | Tyurzak                                          |     02     |  08:05:12  | 09:20:02 |    02    |
-|   01   |  02  |   01    | The Ships of the Archipelago                     |     02     |  09:20:02  | 00:11:47 |    03    |
+|   01   |  01  |   11    | The Supreme Measure                              |     02     |  07:04:27  | 08:05:13 |    02    |
+|   01   |  01  |   12    | Tyurzak                                          |     02     |  08:05:13  | 09:20:03 |    02    |
+|   01   |  02  |   01    | The Ships of the Archipelago                     |     02     |  09:20:28  | 00:11:47 |    03    |
 |   01   |  02  |   02    | The Ports of the Archipelago                     |     03     |  00:11:47  | 01:32:10 |    03    |
 |   01   |  02  |   03    | The Slave Caravans                               |     03     |  01:32:10  | 02:29:27 |    03    |
 |   01   |  02  |   04    | From Island to Island                            |     03     |  02:29:27  | 03:39:12 |    03    |

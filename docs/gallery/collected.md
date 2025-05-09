@@ -3,7 +3,7 @@ title: Images Collected
 contents: local
 ---
 
-## These imaages are collected from various sources 
+## These images are collected from various sources 
 
 <div class="gallery-box">
 

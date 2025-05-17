@@ -19,12 +19,12 @@ contents: local
 |   01   |  01  |   10    | The Law Matures                                  |     02     |  04:28:20  | 07:04:27 |    02    |
 |   01   |  01  |   11    | The Supreme Measure                              |     02     |  07:04:27  | 08:05:13 |    02    |
 |   01   |  01  |   12    | Tyurzak                                          |     02     |  08:05:13  | 09:20:03 |    02    |
-|   01   |  02  |   01    | The Ships of the Archipelago                     |     02     |  09:20:28  | 00:11:47 |    03    |
-|   01   |  02  |   02    | The Ports of the Archipelago                     |     03     |  00:11:47  | 01:32:10 |    03    |
-|   01   |  02  |   03    | The Slave Caravans                               |     03     |  01:32:10  | 02:29:27 |    03    |
-|   01   |  02  |   04    | From Island to Island                            |     03     |  02:29:27  | 03:39:12 |    03    |
+|   01   |  02  |   01    | The Ships of the Archipelago                     |     02     |  09:20:28  | 00:11:48 |    03    |
+|   01   |  02  |   02    | The Ports of the Archipelago                     |     03     |  00:11:48  | 01:32:11 |    03    |
+|   01   |  02  |   03    | The Slave Caravans                               |     03     |  01:32:11  | 02:29:27 |    03    |
+|   01   |  02  |   04    | From Island to Island                            |     03     |  02:29:27  | 03:38:36 |    03    |
 | :----: | :--: | :-----: | ------------------------------------------------ | :--------: | :--------: | :------: | :------: |
-|   02   |  03  |   01    | The Fingers of Aurora                            |     03     |  03:39:12  | 04:21:00 |    03    |
+|   02   |  03  |   01    | The Fingers of Aurora                            |     03     |  03:42:07  | 04:21:00 |    03    |
 |   02   |  03  |   02    | The Archipelago Rises from the Sea               |     03     |  04:21:00  | 06:10:51 |    03    |
 |   02   |  03  |   03    | The Archipelago Metastasizes                     |     03     |  06:10:51  | 07:58:02 |    03    |
 |   02   |  03  |   04    | The Archipelago Hardens                          |     03     |  07:58:02  | 08:58:01 |    03    |

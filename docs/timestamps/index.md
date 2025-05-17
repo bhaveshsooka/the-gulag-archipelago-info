@@ -25,6 +25,11 @@ The table here shows the timestamps for the portitions of the recordings that re
 | Audiobook Information          |     02     |  00:34:01  | 00:34:57 |    02    |
 | Volume 1 Information           |     02     |  00:34:57  | 00:35:26 |    02    |
 | Part 2 Introduction            |     02     |  09:20:03  | 09:20:28 |    02    |
+| Blackstone Content<sup>1</sup> |     03     |  03:38:36  | 03:39:13 |    03    |
+| Audiobook Information          |     03     |  03:39:13  | 03:40:07 |    03    |
+| Volume 2 Information           |     03     |  03:40:07  | 03:40:39 |    03    |
+| Volume 2 Introduction          |     03     |  03:40:39  | 03:40:53 |    03    |
+| Author's Note                  |     03     |  03:40:53  | 03:42:07 |    03    |
 |                                |            |            |          |          |
 
 <sup>1</sup> Instructions for handling the cassettes as well as some advertising material for Blackstone Audio.

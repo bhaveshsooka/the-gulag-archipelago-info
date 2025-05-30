@@ -24,8 +24,8 @@ contents: local
 |   01   |  02  |   03    | The Slave Caravans                               |     03     |  01:32:11  | 02:29:27 |    03    |
 |   01   |  02  |   04    | From Island to Island                            |     03     |  02:29:27  | 03:38:36 |    03    |
 | :----: | :--: | :-----: | ------------------------------------------------ | :--------: | :--------: | :------: | :------: |
-|   02   |  03  |   01    | The Fingers of Aurora                            |     03     |  03:42:07  | 04:21:00 |    03    |
-|   02   |  03  |   02    | The Archipelago Rises from the Sea               |     03     |  04:21:00  | 06:10:51 |    03    |
+|   02   |  03  |   01    | The Fingers of Aurora                            |     03     |  03:42:07  | 04:21:01 |    03    |
+|   02   |  03  |   02    | The Archipelago Rises from the Sea               |     03     |  04:21:01  | 06:10:51 |    03    |
 |   02   |  03  |   03    | The Archipelago Metastasizes                     |     03     |  06:10:51  | 07:58:02 |    03    |
 |   02   |  03  |   04    | The Archipelago Hardens                          |     03     |  07:58:02  | 08:58:01 |    03    |
 |   02   |  03  |   05    | What the Archipelago Stands On                   |     03     |  08:58:01  | 10:08:15 |    03    |
